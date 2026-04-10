@@ -15,7 +15,8 @@ Engineering but can just be used to transfer offsets to different bases.
   Static [S] or Dynamic [D]: S
   Static Address: Static Address From Static Disassembler
   Dynamic Address: A Dynamic Address For Your Debugger
-  
+
+  (Waits 4 seconds before clearing and continuing the loop)
 ```
 
 ## Example Two:
@@ -29,5 +30,6 @@ Engineering but can just be used to transfer offsets to different bases.
   Static [S] or Dynamic [D]: D
   Dynamic Address: Dynamic Address From Debugger
   Static Address: A Static Address For Your Static Disassembler
-  
+
+  (Waits 4 seconds before clearing and continuing the loop)
 ```
